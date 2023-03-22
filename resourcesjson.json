@@ -1,0 +1,36 @@
+[{
+"Nombre": "Arcópoli",
+"Sede": "Sede: C. de la Montera, 24, 2º O, 28013 Madrid",
+"Descripcion":"Es una asociación de personas voluntarias de la Comunidad de Madrid. Trabajan por la equiparación social y legal del colectivo(LGTB+) y por la erradicación de cualquier forma de LGTBfobia.Actúan en todo el territorio de la Comunidad de Madrid.\n-Cuentan con atención presencial con cita previa u online, también puedes llamar o escribir si lo necesitas.\n-Cuentan con asesoramiento jurídico y psicológico.\n-Cuentan con reuniones semanales todos lo miércoles a las 19:00h, en su local.",
+"Web": "https://arcopoli.org/",
+"Telefono":"618 54 71 66"
+},
+{
+"Nombre": "Transexualia",
+"Sede": "Sede: C. de Bravo Murillo, 4, 28015 Madrid",
+"Descripcion":"Es una organización no gubernamental que ha sido declarada de utilidad pública por el ayuntamiento de madrid.\nCuenta con:\n-Programas sociolaborales para personas transexuales\n-Grupos de apoyo psicoterapéutico y ayuda integral a transexuales en riesgo de exclusión social\n-Orientación jurídica en más campos que solo la transfobias, racismo, extranjería, homofobia y xenofobia\n-Entrega gratuita de preservativos y material informativo \n-Y muchos más servicios de utilidad",
+"Web": "http://transexualia.org/",
+"Telefono":"No cuentan con teléfono pero puedes contactar con ellos a través de su página web"
+},
+{
+"Nombre": "Euforia",
+"Sede": "Sede: No cuentan con una sede física",
+"Descripcion":"Cuenta con:\n-Referentes trans (divulgación, videos, narraciones etc.)\n-Información del registro civil, sanidad, investigaciones, legislaciones y otros materiales \n-Eventos \n-Contactos de ayuda por toda españa (Contactos autonómicos en Andalucía  Aragón  Asturias  Baleares  Canarias  Cantabria  Castilla-La Mancha  Castilla y León  Cataluña  Ceuta y Melilla  Extremadura  Galicia  La Rioja  Madrid  Murcia  Navarra  País Vasco,Comunidad Valenciana",
+"Web": "https://euforia.org.es/",
+"Telefono":"636 96 52 22 / 607 24 91 82"
+},
+{
+"Nombre": "FELGTBI+",
+"Sede": "Sede: C. de las Infantas, 40, 1* B, 28004 Madrid",
+"Descripcion":"Es una ONG estatal que trabaja con diversos grupos (Feministas, LGTBIQ+ etc.). \nEstá disponible por todo el territorio español. \nTambién está implicada la lucha  por la diversidad afectivo-sexual, familiar y de género, así como la lucha contra el VIH.\nPuedes hacer consultas y si has sufrido cualquier tipo de agresión por tu forma de ser puedes denunciar (también si has sido testig@ de una) y de formas en las que tú puedes apoyar con una tienda solidaria.",
+"Web": "https://felgtbi.org/",
+"Telefono":"913 604 605"
+},
+{
+"Nombre": "COGAM",
+"Sede": "Sede:C. de la Puebla, 9, 28004 Madrid",
+"Descripcion":"Es una ONG con sede en Madrid que forma parte de la FELGTBI+ (Federación Española LGTBI+), constituida como asociación sin ánimo de lucro. Está declarada de utilidad pública, trabaja por los derechos de lesbianas, gays, transexuales, bisexuales y el resto de la comunidad LGTBI+.\nAbierto de 9am a 9pm.",
+"Web": "https://cogam.es",
+"Telefono":"915 23 00 70"
+}
+]
