@@ -1,0 +1,19 @@
+[{
+"id": "TRANSGÉNERO",
+"Bandera": "TransgenderPrideFlag.jpg",
+"Descripcion": "Persona cuyo género no concuerda con aquel que, al nacer, se le asignó con base en sus características sexuales aparentes. Las personas trans pueden hacen un proceso de resignación hormonal (más información: terapia hormonal de feminización primer botón; terapia hormonal masculinizante segundo botón) aunque no es necesario. El hecho de que alguien se identifique a sí misme con un género es una razón suficiente y válida para que sea considerade como tal.",
+"Url":"https://www.mayoclinic.org/es-es/tests-procedures/feminizing-hormone-therapy/about/pac-20385096",
+"Url2":"https://www.mayoclinic.org/es-es/tests-procedures/masculinizing-hormone-therapy/about/pac-20385099"
+},
+{
+"id": "CIS",
+"Bandera": "Cisgenderflag.svg.png",
+"Descripcion": " Persona cuyo género concuerda con aquel que, al nacer, se le asignó con base en sus características sexuales aparentes."
+},
+{
+"id": "IDENTIDADES NO BINARIAS",
+"Bandera": "Non-binaryPrideFlag.png",
+"Descripcion": "Debido a la gran cantidad de identidades que engloba este término paraguas, abajo hay un link dónde puedes explorar todas las identidades que abarca.Además, se debe mencionar que existe la posiblidad de que alguien se defina a la vez como trans y dentro del expectro no binario. En los siguientes apartados, te definimos alguna de las identidades dentro de este término paraguas.",
+"Url":"https://nonbinary.wiki/wiki/Main_Page"
+}
+]
